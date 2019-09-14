@@ -1,0 +1,574 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AUDIO_CHANNEL_1	AVDeamon/audio_device.h	/^    AUDIO_CHANNEL_1 = 1 ,$/;"	e	enum:__anon17
+AUDIO_CHANNEL_2	AVDeamon/audio_device.h	/^    AUDIO_CHANNEL_2 = 2 ,$/;"	e	enum:__anon17
+AUDIO_DEVICE_0	AVDeamon/audio_device.h	/^    AUDIO_DEVICE_0      = 0,   \/\/ oss: dsp alsa: c0d0$/;"	e	enum:__anon18
+AUDIO_DEVICE_1	AVDeamon/audio_device.h	/^    AUDIO_DEVICE_1      = 1,   \/\/ oss: dsp1 alsa: c0d1$/;"	e	enum:__anon18
+AUDIO_DEVICE_2	AVDeamon/audio_device.h	/^    AUDIO_DEVICE_2      = 2,   \/\/ oss: dsp2 alsa: $/;"	e	enum:__anon18
+AUDIO_DEVICE_3	AVDeamon/audio_device.h	/^    AUDIO_DEVICE_3      = 3,   \/\/ oss: dsp3 alsa: c0d2$/;"	e	enum:__anon18
+AUDIO_DEVICE_ALL	AVDeamon/audio_device.h	/^    AUDIO_DEVICE_ALL   =  4,$/;"	e	enum:__anon18
+AUDIO_FMT_S16_LE	AVDeamon/audio_device.h	/^    AUDIO_FMT_S16_LE      =   16,$/;"	e	enum:__anon15
+AUDIO_FMT_S24_3LE	AVDeamon/audio_device.h	/^    AUDIO_FMT_S24_3LE     =   24,$/;"	e	enum:__anon15
+AUDIO_FMT_S8	AVDeamon/audio_device.h	/^    AUDIO_FMT_S8          =   8,$/;"	e	enum:__anon15
+AUDIO_SAMPLE_RATE_11025	AVDeamon/audio_device.h	/^    AUDIO_SAMPLE_RATE_11025 = 11025,$/;"	e	enum:__anon16
+AUDIO_SAMPLE_RATE_12000	AVDeamon/audio_device.h	/^    AUDIO_SAMPLE_RATE_12000 = 12000,$/;"	e	enum:__anon16
+AUDIO_SAMPLE_RATE_16000	AVDeamon/audio_device.h	/^    AUDIO_SAMPLE_RATE_16000 = 16000,$/;"	e	enum:__anon16
+AUDIO_SAMPLE_RATE_19200	AVDeamon/audio_device.h	/^    AUDIO_SAMPLE_RATE_19200 = 192000,$/;"	e	enum:__anon16
+AUDIO_SAMPLE_RATE_22050	AVDeamon/audio_device.h	/^    AUDIO_SAMPLE_RATE_22050 = 22050,$/;"	e	enum:__anon16
+AUDIO_SAMPLE_RATE_24000	AVDeamon/audio_device.h	/^    AUDIO_SAMPLE_RATE_24000 = 24000,$/;"	e	enum:__anon16
+AUDIO_SAMPLE_RATE_32000	AVDeamon/audio_device.h	/^    AUDIO_SAMPLE_RATE_32000 = 32000,$/;"	e	enum:__anon16
+AUDIO_SAMPLE_RATE_44100	AVDeamon/audio_device.h	/^    AUDIO_SAMPLE_RATE_44100 = 44100,$/;"	e	enum:__anon16
+AUDIO_SAMPLE_RATE_48000	AVDeamon/audio_device.h	/^    AUDIO_SAMPLE_RATE_48000 = 48000,$/;"	e	enum:__anon16
+AUDIO_SAMPLE_RATE_8000	AVDeamon/audio_device.h	/^    AUDIO_SAMPLE_RATE_8000  = 8000,$/;"	e	enum:__anon16
+AUDIO_SAMPLE_RATE_96000	AVDeamon/audio_device.h	/^    AUDIO_SAMPLE_RATE_96000 = 96000,$/;"	e	enum:__anon16
+AVDeamon_resgite_all_device	AVDeamon/main.c	/^static int AVDeamon_resgite_all_device( void ){$/;"	f	file:
+CC	AVDeamon/Makefile	/^CC = gcc$/;"	m
+CC	AVDeamon/Makefile	/^CC = mipsel-linux-gcc$/;"	m
+CC	cli/Makefile	/^CC = gcc$/;"	m
+CC	cli/Makefile	/^CC = mipsel-linux-gcc$/;"	m
+CL_BLUE	tools/Debug.h	54;"	d
+CL_BROWN	tools/Debug.h	61;"	d
+CL_CYAN	tools/Debug.h	57;"	d
+CL_DARY_GRAY	tools/Debug.h	56;"	d
+CL_GREEN	tools/Debug.h	52;"	d
+CL_LIGHT_BLUE	tools/Debug.h	55;"	d
+CL_LIGHT_CYAN	tools/Debug.h	58;"	d
+CL_LIGHT_GRAY	tools/Debug.h	63;"	d
+CL_LIGHT_GREEN	tools/Debug.h	53;"	d
+CL_LIGHT_PURPLE	tools/Debug.h	60;"	d
+CL_LIGHT_RED	tools/Debug.h	51;"	d
+CL_NONE	tools/Debug.h	49;"	d
+CL_PURPLE	tools/Debug.h	59;"	d
+CL_RED	tools/Debug.h	50;"	d
+CL_WHITE	tools/Debug.h	64;"	d
+CL_YELLOW	tools/Debug.h	62;"	d
+DBG_AUDIO_ACCESS	tools/Debug.h	23;"	d
+DC_AIN_STA_CMD_CLOSE	AVDeamon/audio_device_alsa.c	21;"	d	file:
+DC_AIN_STA_CMD_CLOSE	AVDeamon/audio_device_oss.c	21;"	d	file:
+DC_AIN_STA_CMD_CLOSEALL	AVDeamon/audio_device_alsa.c	22;"	d	file:
+DC_AIN_STA_CMD_CLOSEALL	AVDeamon/audio_device_oss.c	22;"	d	file:
+DC_AIN_STA_CMD_MASK	AVDeamon/audio_device_alsa.c	19;"	d	file:
+DC_AIN_STA_CMD_MASK	AVDeamon/audio_device_oss.c	19;"	d	file:
+DC_AIN_STA_CMD_OPENDEV	AVDeamon/audio_device_alsa.c	20;"	d	file:
+DC_AIN_STA_CMD_OPENDEV	AVDeamon/audio_device_oss.c	20;"	d	file:
+DC_AIN_STA_CMD_READ	AVDeamon/audio_device_alsa.c	23;"	d	file:
+DC_AIN_STA_CMD_READ	AVDeamon/audio_device_oss.c	23;"	d	file:
+DC_AIN_STA_MODEL_INIT	AVDeamon/audio_device_alsa.c	24;"	d	file:
+DC_AIN_STA_MODEL_INIT	AVDeamon/audio_device_oss.c	24;"	d	file:
+DC_AUDEV_SET_CHANNEL	AVDeamon/audio_device.h	71;"	d
+DC_AUDEV_SET_FMT	AVDeamon/audio_device.h	72;"	d
+DC_AUDEV_SET_FORCE	AVDeamon/audio_device.h	67;"	d
+DC_AUDEV_SET_FRAGMENT	AVDeamon/audio_device.h	74;"	d
+DC_AUDEV_SET_RATE	AVDeamon/audio_device.h	73;"	d
+DC_AUDEV_SET_RECORD	AVDeamon/audio_device.h	69;"	d
+DC_AUDEV_SET_SPEEK	AVDeamon/audio_device.h	68;"	d
+DC_AUDEV_SET_VOL	AVDeamon/audio_device.h	70;"	d
+DC_AUDIO_DEVICE_STA_INITED	AVDeamon/audio_device_alsa.c	41;"	d	file:
+DC_AUDIO_DEVICE_STA_INITED	AVDeamon/audio_device_oss.c	37;"	d	file:
+DC_AUDIO_DEVICE_STA_RECORD	AVDeamon/audio_device_alsa.c	38;"	d	file:
+DC_AUDIO_DEVICE_STA_RECORD	AVDeamon/audio_device_oss.c	34;"	d	file:
+DC_AUDIO_DEVICE_STA_SPEECK	AVDeamon/audio_device_alsa.c	39;"	d	file:
+DC_AUDIO_DEVICE_STA_SPEECK	AVDeamon/audio_device_oss.c	35;"	d	file:
+DC_AUDIO_DEVICE_STA_STASH	AVDeamon/audio_device_alsa.c	42;"	d	file:
+DC_AUDIO_DEVICE_STA_STASH	AVDeamon/audio_device_oss.c	38;"	d	file:
+DC_AUDIO_DEVICE_STA_UPDATEFD_FD	AVDeamon/audio_device_alsa.c	40;"	d	file:
+DC_AUDIO_DEVICE_STA_UPDATEFD_FD	AVDeamon/audio_device_oss.c	36;"	d	file:
+DC_AU_DSP1_NAME	AVDeamon/audio_device.h	47;"	d
+DC_AU_DSP2_NAME	AVDeamon/audio_device.h	48;"	d
+DC_AU_DSP3_NAME	AVDeamon/audio_device.h	49;"	d
+DC_AU_DSP_NAME	AVDeamon/audio_device.h	46;"	d
+DC_AU_MIX1_NAME	AVDeamon/audio_device.h	55;"	d
+DC_AU_MIX2_NAME	AVDeamon/audio_device.h	56;"	d
+DC_AU_MIX3_NAME	AVDeamon/audio_device.h	57;"	d
+DC_AU_MIX_NAME	AVDeamon/audio_device.h	54;"	d
+DC_RECONNECT_INTERVAL	AVDeamon/audio_device_oss.c	26;"	d	file:
+DC_RECONNECT_TIMES	AVDeamon/audio_device_oss.c	27;"	d	file:
+DC_SRV_EPOLL_EVSIZE	tools/unixdomain_socket.c	13;"	d	file:
+DC_SRV_EPOLL_MONITOR_SIZE	tools/unixdomain_socket.c	12;"	d	file:
+DEBUG_COLOR	tools/Debug.h	19;"	d
+DF_AU_ALSA_DEV	AVDeamon/audio_device.h	62;"	d
+DF_AU_DSP_NAME	AVDeamon/audio_device.h	50;"	d
+DF_AU_MIXER_NAME	AVDeamon/audio_device.h	58;"	d
+DF_LINKLIST_INIT_LISTHEAD	tools/linklist.c	6;"	d	file:
+DLLOGD	tools/Debug.h	71;"	d
+DLLOGD	tools/Debug.h	82;"	d
+DLLOGE	tools/Debug.h	68;"	d
+DLLOGE	tools/Debug.h	79;"	d
+DLLOGI	tools/Debug.h	70;"	d
+DLLOGI	tools/Debug.h	81;"	d
+DLLOGV	tools/Debug.h	72;"	d
+DLLOGV	tools/Debug.h	83;"	d
+DLLOGW	tools/Debug.h	69;"	d
+DLLOGW	tools/Debug.h	80;"	d
+DLOGCOM	tools/Debug.h	42;"	d
+DLOGCOMLN	tools/Debug.h	37;"	d
+DLOGD	tools/Debug.h	76;"	d
+DLOGD	tools/Debug.h	87;"	d
+DLOGE	tools/Debug.h	73;"	d
+DLOGE	tools/Debug.h	84;"	d
+DLOGI	tools/Debug.h	75;"	d
+DLOGI	tools/Debug.h	86;"	d
+DLOGV	tools/Debug.h	77;"	d
+DLOGV	tools/Debug.h	88;"	d
+DLOGW	tools/Debug.h	74;"	d
+DLOGW	tools/Debug.h	85;"	d
+DLOG_LEVEL	tools/Debug.h	/^enum DLOG_LEVEL{$/;"	g
+DL_AUD_ALSA_CARD	AVDeamon/audio_device_alsa.c	30;"	d	file:
+DL_AUD_ALSA_PERIOD_COUNT	AVDeamon/audio_device_alsa.c	32;"	d	file:
+DL_AUD_ALSA_PERIOD_SIZE	AVDeamon/audio_device_alsa.c	31;"	d	file:
+DL_DEBUG	tools/Debug.h	/^    DL_DEBUG   = 4,$/;"	e	enum:DLOG_LEVEL
+DL_DEV_TYPE_CAPTURE	AVDeamon/audio_device_alsa.c	28;"	d	file:
+DL_DEV_TYPE_CTRL	AVDeamon/audio_device_alsa.c	26;"	d	file:
+DL_DEV_TYPE_PLAY	AVDeamon/audio_device_alsa.c	27;"	d	file:
+DL_ERROR	tools/Debug.h	/^    DL_ERROR   = 1,$/;"	e	enum:DLOG_LEVEL
+DL_INFO	tools/Debug.h	/^    DL_INFO    = 3,$/;"	e	enum:DLOG_LEVEL
+DL_SILENCE	tools/Debug.h	/^    DL_SILENCE = 0,$/;"	e	enum:DLOG_LEVEL
+DL_VERBOSE	tools/Debug.h	/^    DL_VERBOSE = 5,$/;"	e	enum:DLOG_LEVEL
+DL_WARN	tools/Debug.h	/^    DL_WARN    = 2,$/;"	e	enum:DLOG_LEVEL
+EAuFormatMP3	AVDeamon/task.h	/^    EAuFormatMP3,$/;"	e	enum:__anon5
+EAuFormatPCM	AVDeamon/task.h	/^    EAuFormatPCM,$/;"	e	enum:__anon5
+EAuOutputOSS	AVDeamon/task.h	/^    EAuOutputOSS,$/;"	e	enum:__anon3
+EAuOutputUDS	AVDeamon/task.h	/^    EAuOutputUDS,$/;"	e	enum:__anon3
+EAuUrlFile	AVDeamon/task.h	/^    EAuUrlFile,$/;"	e	enum:__anon4
+EAuUrlOthers	AVDeamon/task.h	/^    EAuUrlOthers,$/;"	e	enum:__anon4
+EAuUrlUDS	AVDeamon/task.h	/^    EAuUrlUDS,$/;"	e	enum:__anon4
+EMsgActionChangeOutput	AVDeamon/task.h	/^    EMsgActionChangeOutput,$/;"	e	enum:__anon2
+EMsgActionInsert	AVDeamon/task.h	/^    EMsgActionInsert,$/;"	e	enum:__anon2
+EMsgActionPause	AVDeamon/task.h	/^    EMsgActionPause,$/;"	e	enum:__anon2
+EMsgActionPlay	AVDeamon/task.h	/^    EMsgActionPlay,$/;"	e	enum:__anon2
+EMsgActionResume	AVDeamon/task.h	/^    EMsgActionResume,$/;"	e	enum:__anon2
+EMsgActionStop	AVDeamon/task.h	/^    EMsgActionStop,$/;"	e	enum:__anon2
+EMsgActionTone	AVDeamon/task.h	/^    EMsgActionTone,$/;"	e	enum:__anon2
+EMsgRoleMusic	AVDeamon/task.h	/^    EMsgRoleMusic,$/;"	e	enum:__anon1
+EMsgRoleTone	AVDeamon/task.h	/^    EMsgRoleTone,$/;"	e	enum:__anon1
+E_PARAMS_TYPE_BOOL	tools/params.h	/^    E_PARAMS_TYPE_BOOL,$/;"	e	enum:__anon21
+E_PARAMS_TYPE_FLOAT	tools/params.h	/^    E_PARAMS_TYPE_FLOAT,$/;"	e	enum:__anon21
+E_PARAMS_TYPE_INT	tools/params.h	/^    E_PARAMS_TYPE_INT,$/;"	e	enum:__anon21
+E_PARAMS_TYPE_STR	tools/params.h	/^    E_PARAMS_TYPE_STR,$/;"	e	enum:__anon21
+E_PARAMS_TYPE_UINT	tools/params.h	/^    E_PARAMS_TYPE_UINT,$/;"	e	enum:__anon21
+G_HTTP_BUFFER_SIZE	AVDeamon/globalparameters.h	17;"	d
+G_MSG_CENTER_NODE_CLI	AVDeamon/msgCenter.h	9;"	d
+G_MSG_CENTER_NODE_SRV	AVDeamon/msgCenter.h	8;"	d
+G_MSG_TYPE_DRICTIVE	tools/package.h	8;"	d
+G_MSG_TYPE_DRICTIVERSP	tools/package.h	9;"	d
+G_MSG_TYPE_EVENT	tools/package.h	10;"	d
+G_MSG_TYPE_SUBSCRIBE	tools/package.h	4;"	d
+G_MSG_TYPE_SUBSCRIBERSP	tools/package.h	5;"	d
+G_MSG_TYPE_UNSUBSCRIBE	tools/package.h	6;"	d
+G_MSG_TYPE_UNSUBSCRIBERSP	tools/package.h	7;"	d
+G_OUTPUT_CHANNEL	AVDeamon/globalparameters.h	10;"	d
+G_OUTPUT_ENABLE_ALSA	AVDeamon/globalparameters.h	7;"	d
+G_OUTPUT_ENABLE_OSS	AVDeamon/globalparameters.h	6;"	d
+G_OUTPUT_ENABLE_UDS	AVDeamon/globalparameters.h	8;"	d
+G_OUTPUT_FORMAT	AVDeamon/globalparameters.h	11;"	d
+G_OUTPUT_OSS_NAME	AVDeamon/globalparameters.h	14;"	d
+G_OUTPUT_OSS_PVOL	AVDeamon/globalparameters.h	15;"	d
+G_OUTPUT_RATE	AVDeamon/globalparameters.h	12;"	d
+G_PLAYER_CMD_PAUSE	AVDeamon/player.h	9;"	d
+G_PLAYER_CMD_PLAY	AVDeamon/player.h	7;"	d
+G_PLAYER_CMD_RESUME	AVDeamon/player.h	10;"	d
+G_PLAYER_CMD_STOP	AVDeamon/player.h	8;"	d
+G_PLAYER_STREAM_MUSIC	AVDeamon/player.h	5;"	d
+G_PLAYER_STREAM_TONE	AVDeamon/player.h	4;"	d
+L_STREAM_STA_ACTIVE	AVDeamon/player.c	14;"	d	file:
+L_STREAM_STA_PAUSE	AVDeamon/player.c	16;"	d	file:
+L_STREAM_STA_STOP	AVDeamon/player.c	15;"	d	file:
+L_UDS_ROLE_CLIENT	tools/unixdomain_socket.c	16;"	d	file:
+L_UDS_ROLE_SERVER	tools/unixdomain_socket.c	15;"	d	file:
+PFLASE	tools/params.h	4;"	d
+PKG_HEAD_MAGIC_WORD	tools/package.c	20;"	d	file:
+PTRUE	tools/params.h	5;"	d
+UDS_SERVER_TYPE_MSG	tools/unixdomain_socket.h	32;"	d
+UDS_SERVER_TYPE_STREAM	tools/unixdomain_socket.h	31;"	d
+UDS_SRVCB_RESULT_CLOSE	tools/unixdomain_socket.h	25;"	d
+UDS_SRVCB_RESULT_SUCCESS	tools/unixdomain_socket.h	26;"	d
+__AUDIO_DEVICE_H	AVDeamon/audio_device.h	2;"	d
+__GLOBAL_PARAMETERS_H	AVDeamon/globalparameters.h	2;"	d
+__LINKLIST_H	tools/linklist.h	2;"	d
+__MAJ_DEBUG_H	tools/Debug.h	9;"	d
+__MSG_CENTER_H	AVDeamon/msgCenter.h	6;"	d
+__MSG_PKG_H	tools/package.h	2;"	d
+__PARAM_H	tools/params.h	2;"	d
+__PLAYER_H	AVDeamon/player.h	2;"	d
+__TASK_H	AVDeamon/task.h	2;"	d
+__TOOLS_H	tools/tools.h	2;"	d
+__UNIXDOMAIN_SOCKET_H	tools/unixdomain_socket.h	14;"	d
+aData	tools/linklist.c	/^    void    *aData;$/;"	m	struct:__anon26	file:
+aIndex	tools/linklist.c	/^    int      aIndex;$/;"	m	struct:__anon26	file:
+aIndexCount	tools/linklist.c	/^    unsigned short aIndexCount;$/;"	m	struct:__anon25	file:
+aMutex	tools/linklist.c	/^    pthread_mutex_t aMutex;$/;"	m	struct:__anon25	file:
+aNext	tools/linklist.c	/^    void    *aNext;$/;"	m	struct:__anon26	file:
+aNext	tools/linklist.c	/^    void *aNext;$/;"	m	struct:__anon25	file:
+a_action	AVDeamon/task.h	/^    eMsgAction      a_action;$/;"	m	struct:__anon9
+a_addr	tools/unixdomain_socket.c	/^    struct sockaddr_in      a_addr;$/;"	m	struct:__anon27	typeref:struct:__anon27::sockaddr_in	file:
+a_addr	tools/unixdomain_socket.c	/^    struct sockaddr_un      a_addr;$/;"	m	struct:__anon28	typeref:struct:__anon28::sockaddr_un	file:
+a_austream_id	AVDeamon/player.c	/^    int                 a_austream_id; \/\/ index in stream$/;"	m	struct:mAudioStream	file:
+a_channel	AVDeamon/audio_device.h	/^    e_au_channel    a_channel;$/;"	m	struct:__anon19
+a_channel	AVDeamon/oss.c	/^    int         a_channel;$/;"	m	struct:__anon13	file:
+a_channel	AVDeamon/task.h	/^    int             a_channel;$/;"	m	struct:__anon8
+a_clayout	AVDeamon/player.c	/^    int             a_clayout;$/;"	m	struct:mAudioFormat	file:
+a_clifd	tools/unixdomain_socket.c	/^    m_cli                  *a_clifd;$/;"	m	struct:__anon28	file:
+a_codec_ctx	AVDeamon/player.c	/^    AVCodecContext     *a_codec_ctx;$/;"	m	struct:mAudioStream	file:
+a_ctx	AVDeamon/player.c	/^    AVFormatContext    *a_ctx;$/;"	m	struct:mAudioStream	file:
+a_data	AVDeamon/player.c	/^    int16_t            *a_data;$/;"	m	struct:mAudioStream	file:
+a_dev	AVDeamon/audio_device_alsa.c	/^    e_au_dev         a_dev;$/;"	m	struct:__anon11	file:
+a_dev	AVDeamon/audio_device_oss.c	/^    e_au_dev         a_dev;$/;"	m	struct:__anon14	file:
+a_dev	AVDeamon/oss.c	/^    e_au_dev    a_dev;$/;"	m	struct:__anon13	file:
+a_fd	tools/unixdomain_socket.c	/^    int                     a_fd;$/;"	m	struct:__anon27	file:
+a_fd	tools/unixdomain_socket.c	/^    int                     a_fd;$/;"	m	struct:__anon28	file:
+a_filtergraph	AVDeamon/player.c	/^    AVFilterGraph      *a_filtergraph;$/;"	m	struct:mAudioStream	file:
+a_fmt	AVDeamon/audio_device.h	/^    e_au_fmt        a_fmt;$/;"	m	struct:__anon19
+a_fmt	AVDeamon/player.c	/^    AVSampleFormat  a_fmt;$/;"	m	struct:mAudioFormat	file:
+a_fmt	AVDeamon/task.h	/^    int             a_fmt;$/;"	m	struct:__anon8
+a_fragment	AVDeamon/audio_device.h	/^    int             a_fragment;$/;"	m	struct:__anon19
+a_frame	AVDeamon/player.c	/^    AVFrame            *a_frame;$/;"	m	struct:mAudioStream	file:
+a_iformat	AVDeamon/task.h	/^    mAuFormat       a_iformat;$/;"	m	union:__anon9::__anon10
+a_index	AVDeamon/player.c	/^    int                 a_index;$/;"	m	struct:mAudioStream	file:
+a_len	AVDeamon/player.c	/^    int16_t             a_len;$/;"	m	struct:mAudioStream	file:
+a_listener_num	tools/unixdomain_socket.c	/^    int                     a_listener_num;$/;"	m	struct:__anon28	file:
+a_musicvol	AVDeamon/task.h	/^    int             a_musicvol;$/;"	m	struct:__anon6
+a_next	tools/unixdomain_socket.c	/^    void                   *a_next;$/;"	m	struct:__anon28	file:
+a_num	AVDeamon/audio_device.h	/^    e_au_dev        a_num;$/;"	m	struct:__anon19
+a_output	AVDeamon/task.h	/^    eAuOutputType   a_output;$/;"	m	union:__anon9::__anon10
+a_path	AVDeamon/task.h	/^    char           *a_path;$/;"	m	struct:__anon7
+a_pkg	AVDeamon/player.c	/^    AVPacket           *a_pkg;$/;"	m	struct:mAudioStream	file:
+a_pvol	AVDeamon/audio_device.h	/^    unsigned        a_pvol;$/;"	m	struct:__anon19
+a_pvol	AVDeamon/audio_device_alsa.c	/^    int              a_pvol;$/;"	m	struct:__anon11	file:
+a_pvol	AVDeamon/audio_device_oss.c	/^    unsigned         a_pvol;$/;"	m	struct:__anon14	file:
+a_rate	AVDeamon/audio_device.h	/^    e_au_samplerate a_rate;$/;"	m	struct:__anon19
+a_rate	AVDeamon/oss.c	/^    int         a_rate;$/;"	m	struct:__anon13	file:
+a_rate	AVDeamon/player.c	/^    int             a_rate;$/;"	m	struct:mAudioFormat	file:
+a_rate	AVDeamon/task.h	/^    int             a_rate;$/;"	m	struct:__anon8
+a_rchannel	AVDeamon/audio_device_alsa.c	/^    e_au_channel     a_rchannel;$/;"	m	struct:__anon11	file:
+a_rchannel	AVDeamon/audio_device_oss.c	/^    e_au_channel     a_rchannel;$/;"	m	struct:__anon14	file:
+a_rfd	AVDeamon/audio_device_oss.c	/^    int              a_rfd;$/;"	m	struct:__anon14	file:
+a_rfmt	AVDeamon/audio_device_alsa.c	/^    e_au_fmt         a_rfmt;$/;"	m	struct:__anon11	file:
+a_rfmt	AVDeamon/audio_device_oss.c	/^    e_au_fmt         a_rfmt;$/;"	m	struct:__anon14	file:
+a_rmutex	AVDeamon/audio_device_alsa.c	/^    pthread_mutex_t  a_rmutex;$/;"	m	struct:__anon11	file:
+a_rmutex	AVDeamon/audio_device_oss.c	/^    pthread_mutex_t  a_rmutex;$/;"	m	struct:__anon14	file:
+a_role	tools/unixdomain_socket.c	/^    unsigned                a_role;     \/\/ server or client$/;"	m	struct:__anon27	file:
+a_role	tools/unixdomain_socket.c	/^    unsigned                a_role;     \/\/ server or client$/;"	m	struct:__anon28	file:
+a_rpcm	AVDeamon/audio_device_alsa.c	/^    struct pcm      *a_rpcm;$/;"	m	struct:__anon11	typeref:struct:__anon11::pcm	file:
+a_rrate	AVDeamon/audio_device_alsa.c	/^    e_au_samplerate  a_rrate;$/;"	m	struct:__anon11	file:
+a_rrate	AVDeamon/audio_device_oss.c	/^    e_au_samplerate  a_rrate;$/;"	m	struct:__anon14	file:
+a_rvol	AVDeamon/audio_device.h	/^    unsigned        a_rvol;$/;"	m	struct:__anon19
+a_rvol	AVDeamon/audio_device_alsa.c	/^    int              a_rvol;$/;"	m	struct:__anon11	file:
+a_rvol	AVDeamon/audio_device_oss.c	/^    unsigned         a_rvol;$/;"	m	struct:__anon14	file:
+a_scale	AVDeamon/player.c	/^    int16_t             a_scale;$/;"	m	struct:mAudioStream	file:
+a_srv	tools/unixdomain_socket.c	/^    m_uds_srv               a_srv;$/;"	m	struct:__anon27	file:
+a_srv	tools/unixdomain_socket.c	/^    m_uds_srv               a_srv;$/;"	m	struct:__anon28	file:
+a_status	AVDeamon/audio_device.h	/^    unsigned        a_status;$/;"	m	struct:__anon19
+a_status	AVDeamon/audio_device_alsa.c	/^    unsigned         a_status;$/;"	m	struct:__anon11	file:
+a_status	AVDeamon/audio_device_oss.c	/^    unsigned         a_status;$/;"	m	struct:__anon14	file:
+a_status	AVDeamon/player.c	/^    uint32_t            a_status;$/;"	m	struct:mAudioStream	file:
+a_thrdid	tools/unixdomain_socket.c	/^    pthread_t               a_thrdid;$/;"	m	struct:__anon27	file:
+a_tonevol	AVDeamon/task.h	/^    int             a_tonevol;$/;"	m	struct:__anon6
+a_type	AVDeamon/task.h	/^    eAuFormatType   a_type;$/;"	m	struct:__anon8
+a_type	AVDeamon/task.h	/^    eAuUrlType      a_type;$/;"	m	struct:__anon7
+a_type	tools/unixdomain_socket.c	/^    unsigned                a_type;$/;"	m	struct:__anon28	file:
+a_url	AVDeamon/task.h	/^    mUrl            a_url;$/;"	m	struct:__anon9
+a_vol	AVDeamon/player.c	/^    int16_t             a_vol;$/;"	m	struct:mAudioStream	file:
+a_vol	AVDeamon/task.h	/^    mAuVol          a_vol;$/;"	m	struct:__anon9
+a_wchannel	AVDeamon/audio_device_alsa.c	/^    e_au_channel     a_wchannel;$/;"	m	struct:__anon11	file:
+a_wchannel	AVDeamon/audio_device_oss.c	/^    e_au_channel     a_wchannel;$/;"	m	struct:__anon14	file:
+a_wfd	AVDeamon/audio_device_oss.c	/^    int              a_wfd;$/;"	m	struct:__anon14	file:
+a_wfmt	AVDeamon/audio_device_alsa.c	/^    e_au_fmt         a_wfmt;$/;"	m	struct:__anon11	file:
+a_wfmt	AVDeamon/audio_device_oss.c	/^    e_au_fmt         a_wfmt;$/;"	m	struct:__anon14	file:
+a_wfragment	AVDeamon/audio_device_oss.c	/^    int              a_wfragment;$/;"	m	struct:__anon14	file:
+a_wmutex	AVDeamon/audio_device_alsa.c	/^    pthread_mutex_t  a_wmutex;$/;"	m	struct:__anon11	file:
+a_wmutex	AVDeamon/audio_device_oss.c	/^    pthread_mutex_t  a_wmutex;$/;"	m	struct:__anon14	file:
+a_wpcm	AVDeamon/audio_device_alsa.c	/^    struct pcm      *a_wpcm;$/;"	m	struct:__anon11	typeref:struct:__anon11::pcm	file:
+a_wrate	AVDeamon/audio_device_alsa.c	/^    e_au_samplerate  a_wrate;$/;"	m	struct:__anon11	file:
+a_wrate	AVDeamon/audio_device_oss.c	/^    e_au_samplerate  a_wrate;$/;"	m	struct:__anon14	file:
+abool	tools/params.h	/^    unsigned    abool;$/;"	m	union:__anon20
+af_decode	AVDeamon/player.c	/^    int (*af_decode)( struct mAudioStream * );$/;"	m	struct:mAudioStream	file:
+af_recycle	AVDeamon/player.c	/^    int (*af_recycle)( struct mAudioStream * );$/;"	m	struct:mAudioStream	file:
+afloat	tools/params.h	/^    float       afloat;$/;"	m	union:__anon20
+aint	tools/params.h	/^    int         aint;$/;"	m	union:__anon20
+alsa	AVDeamon/main.c	/^    m_params    alsa;$/;"	m	struct:__anon12	file:
+astr	tools/params.h	/^    char       *astr;$/;"	m	union:__anon20
+audio_write_header	AVDeamon/oss.c	/^static int audio_write_header(AVFormatContext *s1)$/;"	f	file:
+audio_write_packet	AVDeamon/oss.c	/^static int audio_write_packet(AVFormatContext *s1, AVPacket *pkt)$/;"	f	file:
+audio_write_trailer	AVDeamon/oss.c	/^static int audio_write_trailer(AVFormatContext *s1)$/;"	f	file:
+auint	tools/params.h	/^    unsigned    auint;$/;"	m	union:__anon20
+buffer	tools/cjson.c	/^typedef struct {char *buffer; int length; int offset; } printbuffer;$/;"	m	struct:__anon23	file:
+cJSON	tools/cjson.h	/^typedef struct cJSON {$/;"	s
+cJSON	tools/cjson.h	/^} cJSON;$/;"	t	typeref:struct:cJSON
+cJSON_AddBoolToObject	tools/cjson.h	137;"	d
+cJSON_AddFalseToObject	tools/cjson.h	136;"	d
+cJSON_AddItemReferenceToArray	tools/cjson.c	/^void	cJSON_AddItemReferenceToArray(cJSON *array, cJSON *item)						{cJSON_AddItemToArray(array,create_reference(item));}$/;"	f
+cJSON_AddItemReferenceToObject	tools/cjson.c	/^void	cJSON_AddItemReferenceToObject(cJSON *object,const char *string,cJSON *item)	{cJSON_AddItemToObject(object,string,create_reference(item));}$/;"	f
+cJSON_AddItemToArray	tools/cjson.c	/^void   cJSON_AddItemToArray(cJSON *array, cJSON *item)						{cJSON *c=array->child;if (!item) return; if (!c) {array->child=item;} else {while (c && c->next) c=c->next; suffix_object(c,item);}}$/;"	f
+cJSON_AddItemToObject	tools/cjson.c	/^void   cJSON_AddItemToObject(cJSON *object,const char *string,cJSON *item)	{if (!item) return; if (item->string) cJSON_free(item->string);item->string=cJSON_strdup(string);cJSON_AddItemToArray(object,item);}$/;"	f
+cJSON_AddItemToObjectCS	tools/cjson.c	/^void   cJSON_AddItemToObjectCS(cJSON *object,const char *string,cJSON *item)	{if (!item) return; if (!(item->type&cJSON_StringIsConst) && item->string) cJSON_free(item->string);item->string=(char*)string;item->type|=cJSON_StringIsConst;cJSON_AddItemToArray(object,item);}$/;"	f
+cJSON_AddNullToObject	tools/cjson.h	134;"	d
+cJSON_AddNumberToObject	tools/cjson.h	138;"	d
+cJSON_AddStringToObject	tools/cjson.h	139;"	d
+cJSON_AddTrueToObject	tools/cjson.h	135;"	d
+cJSON_Array	tools/cjson.h	37;"	d
+cJSON_CreateArray	tools/cjson.c	/^cJSON *cJSON_CreateArray(void)					{cJSON *item=cJSON_New_Item();if(item)item->type=cJSON_Array;return item;}$/;"	f
+cJSON_CreateBool	tools/cjson.c	/^cJSON *cJSON_CreateBool(int b)					{cJSON *item=cJSON_New_Item();if(item)item->type=b?cJSON_True:cJSON_False;return item;}$/;"	f
+cJSON_CreateDoubleArray	tools/cjson.c	/^cJSON *cJSON_CreateDoubleArray(const double *numbers,int count)	{int i;cJSON *n=0,*p=0,*a=cJSON_CreateArray();for(i=0;a && i<count;i++){n=cJSON_CreateNumber(numbers[i]);if(!i)a->child=n;else suffix_object(p,n);p=n;}return a;}$/;"	f
+cJSON_CreateFalse	tools/cjson.c	/^cJSON *cJSON_CreateFalse(void)					{cJSON *item=cJSON_New_Item();if(item)item->type=cJSON_False;return item;}$/;"	f
+cJSON_CreateFloatArray	tools/cjson.c	/^cJSON *cJSON_CreateFloatArray(const float *numbers,int count)	{int i;cJSON *n=0,*p=0,*a=cJSON_CreateArray();for(i=0;a && i<count;i++){n=cJSON_CreateNumber(numbers[i]);if(!i)a->child=n;else suffix_object(p,n);p=n;}return a;}$/;"	f
+cJSON_CreateIntArray	tools/cjson.c	/^cJSON *cJSON_CreateIntArray(const int *numbers,int count)		{int i;cJSON *n=0,*p=0,*a=cJSON_CreateArray();for(i=0;a && i<count;i++){n=cJSON_CreateNumber(numbers[i]);if(!i)a->child=n;else suffix_object(p,n);p=n;}return a;}$/;"	f
+cJSON_CreateNull	tools/cjson.c	/^cJSON *cJSON_CreateNull(void)					{cJSON *item=cJSON_New_Item();if(item)item->type=cJSON_NULL;return item;}$/;"	f
+cJSON_CreateNumber	tools/cjson.c	/^cJSON *cJSON_CreateNumber(double num)			{cJSON *item=cJSON_New_Item();if(item){item->type=cJSON_Number;item->valuedouble=num;item->valueint=(int)num;}return item;}$/;"	f
+cJSON_CreateObject	tools/cjson.c	/^cJSON *cJSON_CreateObject(void)					{cJSON *item=cJSON_New_Item();if(item)item->type=cJSON_Object;return item;}$/;"	f
+cJSON_CreateString	tools/cjson.c	/^cJSON *cJSON_CreateString(const char *string)	{cJSON *item=cJSON_New_Item();if(item){item->type=cJSON_String;item->valuestring=cJSON_strdup(string);}return item;}$/;"	f
+cJSON_CreateStringArray	tools/cjson.c	/^cJSON *cJSON_CreateStringArray(const char **strings,int count)	{int i;cJSON *n=0,*p=0,*a=cJSON_CreateArray();for(i=0;a && i<count;i++){n=cJSON_CreateString(strings[i]);if(!i)a->child=n;else suffix_object(p,n);p=n;}return a;}$/;"	f
+cJSON_CreateTrue	tools/cjson.c	/^cJSON *cJSON_CreateTrue(void)					{cJSON *item=cJSON_New_Item();if(item)item->type=cJSON_True;return item;}$/;"	f
+cJSON_Delete	tools/cjson.c	/^void cJSON_Delete(cJSON *c)$/;"	f
+cJSON_DeleteItemFromArray	tools/cjson.c	/^void   cJSON_DeleteItemFromArray(cJSON *array,int which)			{cJSON_Delete(cJSON_DetachItemFromArray(array,which));}$/;"	f
+cJSON_DeleteItemFromObject	tools/cjson.c	/^void   cJSON_DeleteItemFromObject(cJSON *object,const char *string) {cJSON_Delete(cJSON_DetachItemFromObject(object,string));}$/;"	f
+cJSON_DetachItemFromArray	tools/cjson.c	/^cJSON *cJSON_DetachItemFromArray(cJSON *array,int which)			{cJSON *c=array->child;while (c && which>0) c=c->next,which--;if (!c) return 0;$/;"	f
+cJSON_DetachItemFromObject	tools/cjson.c	/^cJSON *cJSON_DetachItemFromObject(cJSON *object,const char *string) {int i=0;cJSON *c=object->child;while (c && cJSON_strcasecmp(c->string,string)) i++,c=c->next;if (c) return cJSON_DetachItemFromArray(object,i);return 0;}$/;"	f
+cJSON_Duplicate	tools/cjson.c	/^cJSON *cJSON_Duplicate(cJSON *item,int recurse)$/;"	f
+cJSON_False	tools/cjson.h	32;"	d
+cJSON_GetArrayItem	tools/cjson.c	/^cJSON *cJSON_GetArrayItem(cJSON *array,int item)				{cJSON *c=array->child;  while (c && item>0) item--,c=c->next; return c;}$/;"	f
+cJSON_GetArraySize	tools/cjson.c	/^int    cJSON_GetArraySize(cJSON *array)							{cJSON *c=array->child;int i=0;while(c)i++,c=c->next;return i;}$/;"	f
+cJSON_GetErrorPtr	tools/cjson.c	/^const char *cJSON_GetErrorPtr(void) {return ep;}$/;"	f
+cJSON_GetObjectItem	tools/cjson.c	/^cJSON *cJSON_GetObjectItem(cJSON *object,const char *string)	{cJSON *c=object->child; while (c && cJSON_strcasecmp(c->string,string)) c=c->next; return c;}$/;"	f
+cJSON_Hooks	tools/cjson.h	/^typedef struct cJSON_Hooks {$/;"	s
+cJSON_Hooks	tools/cjson.h	/^} cJSON_Hooks;$/;"	t	typeref:struct:cJSON_Hooks
+cJSON_InitHooks	tools/cjson.c	/^void cJSON_InitHooks(cJSON_Hooks* hooks)$/;"	f
+cJSON_InsertItemInArray	tools/cjson.c	/^void   cJSON_InsertItemInArray(cJSON *array,int which,cJSON *newitem)		{cJSON *c=array->child;while (c && which>0) c=c->next,which--;if (!c) {cJSON_AddItemToArray(array,newitem);return;}$/;"	f
+cJSON_IsReference	tools/cjson.h	40;"	d
+cJSON_Minify	tools/cjson.c	/^void cJSON_Minify(char *json)$/;"	f
+cJSON_NULL	tools/cjson.h	34;"	d
+cJSON_New_Item	tools/cjson.c	/^static cJSON *cJSON_New_Item(void)$/;"	f	file:
+cJSON_Number	tools/cjson.h	35;"	d
+cJSON_Object	tools/cjson.h	38;"	d
+cJSON_Parse	tools/cjson.c	/^cJSON *cJSON_Parse(const char *value) {return cJSON_ParseWithOpts(value,0,0);}$/;"	f
+cJSON_ParseWithOpts	tools/cjson.c	/^cJSON *cJSON_ParseWithOpts(const char *value,const char **return_parse_end,int require_null_terminated)$/;"	f
+cJSON_Print	tools/cjson.c	/^char *cJSON_Print(cJSON *item)				{return print_value(item,0,1,0);}$/;"	f
+cJSON_PrintBuffered	tools/cjson.c	/^char *cJSON_PrintBuffered(cJSON *item,int prebuffer,int fmt)$/;"	f
+cJSON_PrintUnformatted	tools/cjson.c	/^char *cJSON_PrintUnformatted(cJSON *item)	{return print_value(item,0,0,0);}$/;"	f
+cJSON_ReplaceItemInArray	tools/cjson.c	/^void   cJSON_ReplaceItemInArray(cJSON *array,int which,cJSON *newitem)		{cJSON *c=array->child;while (c && which>0) c=c->next,which--;if (!c) return;$/;"	f
+cJSON_ReplaceItemInObject	tools/cjson.c	/^void   cJSON_ReplaceItemInObject(cJSON *object,const char *string,cJSON *newitem){int i=0;cJSON *c=object->child;while(c && cJSON_strcasecmp(c->string,string))i++,c=c->next;if(c){newitem->string=cJSON_strdup(string);cJSON_ReplaceItemInArray(object,i,newitem);}}$/;"	f
+cJSON_SetIntValue	tools/cjson.h	142;"	d
+cJSON_SetNumberValue	tools/cjson.h	143;"	d
+cJSON_String	tools/cjson.h	36;"	d
+cJSON_StringIsConst	tools/cjson.h	41;"	d
+cJSON_True	tools/cjson.h	33;"	d
+cJSON__h	tools/cjson.h	24;"	d
+cJSON_free	tools/cjson.c	/^static void (*cJSON_free)(void *ptr) = free;$/;"	v	file:
+cJSON_malloc	tools/cjson.c	/^static void *(*cJSON_malloc)(size_t sz) = malloc;$/;"	v	file:
+cJSON_strcasecmp	tools/cjson.c	/^static int cJSON_strcasecmp(const char *s1,const char *s2)$/;"	f	file:
+cJSON_strdup	tools/cjson.c	/^static char* cJSON_strdup(const char* str)$/;"	f	file:
+check_param	AVDeamon/audio_device_alsa.c	/^static int check_param(struct pcm_params *params, unsigned int param,\\$/;"	f	file:
+child	tools/cjson.h	/^	struct cJSON *child;		\/* An array or object item will have a child pointer pointing to a chain of the items in the array\/object. *\/$/;"	m	struct:cJSON	typeref:struct:cJSON::cJSON
+create_reference	tools/cjson.c	/^static cJSON *create_reference(cJSON *item) {cJSON *ref=cJSON_New_Item();if (!ref) return 0;memcpy(ref,item,sizeof(cJSON));ref->string=0;ref->type|=cJSON_IsReference;ref->next=ref->prev=0;return ref;}$/;"	f	file:
+data	tools/params.h	/^    u_udata         data;$/;"	m	struct:__anon22
+debug_level	cli/main.c	/^unsigned debug_level = 7;$/;"	v
+debug_level	tools/Debug.c	/^unsigned debug_level = 8;$/;"	v
+eAuFormatType	AVDeamon/task.h	/^}eAuFormatType;$/;"	t	typeref:enum:__anon5
+eAuOutputType	AVDeamon/task.h	/^}eAuOutputType;$/;"	t	typeref:enum:__anon3
+eAuUrlType	AVDeamon/task.h	/^}eAuUrlType;$/;"	t	typeref:enum:__anon4
+eMsgAction	AVDeamon/task.h	/^}eMsgAction;$/;"	t	typeref:enum:__anon2
+eMsgRole	AVDeamon/task.h	/^}eMsgRole;$/;"	t	typeref:enum:__anon1
+e_au_channel	AVDeamon/audio_device.h	/^}e_au_channel;$/;"	t	typeref:enum:__anon17
+e_au_dev	AVDeamon/audio_device.h	/^}e_au_dev;$/;"	t	typeref:enum:__anon18
+e_au_fmt	AVDeamon/audio_device.h	/^}e_au_fmt;$/;"	t	typeref:enum:__anon15
+e_au_samplerate	AVDeamon/audio_device.h	/^}e_au_samplerate;$/;"	t	typeref:enum:__anon16
+e_udatatype	tools/params.h	/^}e_udatatype;$/;"	t	typeref:enum:__anon21
+ensure	tools/cjson.c	/^static char* ensure(printbuffer *p,int needed)$/;"	f	file:
+ep	tools/cjson.c	/^static const char *ep;$/;"	v	file:
+ff_oss_muxer	AVDeamon/oss.c	/^AVOutputFormat ff_oss_muxer = { $/;"	v
+firstByteMark	tools/cjson.c	/^static const unsigned char firstByteMark[7] = { 0x00, 0x00, 0xC0, 0xE0, 0xF0, 0xF8, 0xFC };$/;"	v	file:
+free_fn	tools/cjson.h	/^      void (*free_fn)(void *ptr);$/;"	m	struct:cJSON_Hooks
+get_exec_pid	tools/tools.c	/^int get_exec_pid( const char *iexename, int *ipidbuf, int ibuflen ){$/;"	f
+gfListCreate	tools/linklist.c	/^void *gfListCreate( void ){$/;"	f
+gfListDelList	tools/linklist.c	/^int gfListDelList( void *iListHead ){$/;"	f
+gfListDelViaData	tools/linklist.c	/^int gfListDelViaData( void *iListHead, void *iData ){$/;"	f
+gfListDelViaIndex	tools/linklist.c	/^int gfListDelViaIndex( void *iListHead, int iIndex ){$/;"	f
+gfListDestory	tools/linklist.c	/^int gfListDestory( void *iListHead ){$/;"	f
+gfListForEach	tools/linklist.c	/^void *gfListForEach(void *iListHead, void *iLastData){$/;"	f
+gfListGetFirst	tools/linklist.c	/^void *gfListGetFirst( void *iListHead ){$/;"	f
+gfListModify	tools/linklist.c	/^int gfListModify(void *iListHead, int iIndex, void *iData ){$/;"	f
+gfListPopFirst	tools/linklist.c	/^void *gfListPopFirst( void *iListHead ){$/;"	f
+gfListPopLast	tools/linklist.c	/^void *gfListPopLast( void *iListHead ){$/;"	f
+gfListPush	tools/linklist.c	/^int gfListPush( void *iListHead, void *iData ){$/;"	f
+gfListPushAssignIndex	tools/linklist.c	/^int gfListPushAssignIndex( void *iListHead, unsigned short iIndex, void *iData ){$/;"	f
+gfListSearch	tools/linklist.c	/^void *gfListSearch(void *iListHead, int iIndex){$/;"	f
+gf_audev_block_play	AVDeamon/audio_device_alsa.c	/^int gf_audev_block_play( e_au_dev idev, char *ibuf, unsigned ilen  ){$/;"	f
+gf_audev_block_play	AVDeamon/audio_device_oss.c	/^int gf_audev_block_play( e_au_dev idev, char *ibuf, unsigned ilen  ){$/;"	f
+gf_audev_block_record	AVDeamon/audio_device_alsa.c	/^int gf_audev_block_record( e_au_dev idev, void *ibuf, unsigned ilen  ){$/;"	f
+gf_audev_block_record	AVDeamon/audio_device_oss.c	/^int gf_audev_block_record( e_au_dev idev, void *ibuf, unsigned ilen  ){$/;"	f
+gf_audev_config	AVDeamon/audio_device_alsa.c	/^int gf_audev_config( m_au_conf *iconf ){$/;"	f
+gf_audev_config	AVDeamon/audio_device_oss.c	/^int gf_audev_config( m_au_conf *iconf ){$/;"	f
+gf_audev_get_devid_from_name	AVDeamon/audio_device_oss.c	/^int gf_audev_get_devid_from_name( char *idev_name ){$/;"	f
+gf_audev_init	AVDeamon/audio_device_alsa.c	/^void gf_audev_init( void ){$/;"	f
+gf_audev_init	AVDeamon/audio_device_oss.c	/^void gf_audev_init( void ){$/;"	f
+gf_audev_recovery_devices	AVDeamon/audio_device_alsa.c	/^int gf_audev_recovery_devices( e_au_dev idev ){$/;"	f
+gf_audev_recovery_devices	AVDeamon/audio_device_oss.c	/^int gf_audev_recovery_devices( e_au_dev idev ){$/;"	f
+gf_audev_release_devices	AVDeamon/audio_device_alsa.c	/^int gf_audev_release_devices( e_au_dev idev ){$/;"	f
+gf_audev_release_devices	AVDeamon/audio_device_oss.c	/^int gf_audev_release_devices( e_au_dev idev ){$/;"	f
+gf_audev_speeck_getvol	AVDeamon/audio_device_alsa.c	/^int gf_audev_speeck_getvol( e_au_dev idev ){$/;"	f
+gf_audev_speeck_getvol	AVDeamon/audio_device_oss.c	/^int gf_audev_speeck_getvol( e_au_dev idev ){$/;"	f
+gf_audev_speeck_setvol	AVDeamon/audio_device_alsa.c	/^int gf_audev_speeck_setvol( e_au_dev idev, unsigned ivol ){$/;"	f
+gf_audev_speeck_setvol	AVDeamon/audio_device_oss.c	/^int gf_audev_speeck_setvol( e_au_dev idev, unsigned ivol ){$/;"	f
+gf_audev_speeck_voldown	AVDeamon/audio_device_alsa.c	/^int gf_audev_speeck_voldown( e_au_dev idev, unsigned idelta ){$/;"	f
+gf_audev_speeck_voldown	AVDeamon/audio_device_oss.c	/^int gf_audev_speeck_voldown( e_au_dev idev, unsigned idelta ){$/;"	f
+gf_audev_speeck_volup	AVDeamon/audio_device_alsa.c	/^int gf_audev_speeck_volup( e_au_dev idev, unsigned idelta ){$/;"	f
+gf_audev_speeck_volup	AVDeamon/audio_device_oss.c	/^int gf_audev_speeck_volup( e_au_dev idev, unsigned idelta ){$/;"	f
+gf_audev_uninit	AVDeamon/audio_device_alsa.c	/^void gf_audev_uninit( void ){$/;"	f
+gf_audev_uninit	AVDeamon/audio_device_oss.c	/^void gf_audev_uninit( void ){$/;"	f
+gv_params	AVDeamon/main.c	/^static m_inputparams gv_params = {$/;"	v	file:
+kill_other_deamon	AVDeamon/main.c	/^static int kill_other_deamon( void ){$/;"	f	file:
+length	tools/cjson.c	/^typedef struct {char *buffer; int length; int offset; } printbuffer;$/;"	m	struct:__anon23	file:
+list_fmt	AVDeamon/main.c	/^    m_params    list_fmt;$/;"	m	struct:__anon12	file:
+luv_hw_audev_init	AVDeamon/audio_device_alsa.c	/^void luv_hw_audev_init(lua_State *L, uv_loop_t *loop) {$/;"	f
+mAuFormat	AVDeamon/task.h	/^}mAuFormat;$/;"	t	typeref:struct:__anon8
+mAuVol	AVDeamon/task.h	/^}mAuVol;$/;"	t	typeref:struct:__anon6
+mAudioFormat	AVDeamon/player.c	/^typedef struct mAudioFormat{$/;"	s	file:
+mAudioFormat	AVDeamon/player.c	/^}mAudioFormat;$/;"	t	typeref:struct:mAudioFormat	file:
+mAudioStream	AVDeamon/player.c	/^typedef struct mAudioStream{$/;"	s	file:
+mAudioStream	AVDeamon/player.c	/^}mAudioStream;$/;"	t	typeref:struct:mAudioStream	file:
+mListHead	tools/linklist.c	/^}mListHead;$/;"	t	typeref:struct:__anon25	file:
+mOSSData	AVDeamon/oss.c	/^}mOSSData;$/;"	t	typeref:struct:__anon13	file:
+mSubber	tools/package.c	/^}mSubber;$/;"	t	typeref:struct:__anon24	file:
+mTarNode	tools/linklist.c	/^}mTarNode;$/;"	t	typeref:struct:__anon26	file:
+mTaskNode	AVDeamon/task.h	/^}mTaskNode;$/;"	t	typeref:struct:__anon9
+mUrl	AVDeamon/task.h	/^}mUrl;$/;"	t	typeref:struct:__anon7
+m_au_conf	AVDeamon/audio_device.h	/^}m_au_conf;$/;"	t	typeref:struct:__anon19
+m_au_info	AVDeamon/audio_device_alsa.c	/^}m_au_info;$/;"	t	typeref:struct:__anon11	file:
+m_au_info	AVDeamon/audio_device_oss.c	/^}m_au_info;$/;"	t	typeref:struct:__anon14	file:
+m_cli	tools/unixdomain_socket.c	/^}m_cli;$/;"	t	typeref:struct:__anon27	file:
+m_inputparams	AVDeamon/main.c	/^}m_inputparams;$/;"	t	typeref:struct:__anon12	file:
+m_params	tools/params.h	/^}m_params;$/;"	t	typeref:struct:__anon22
+m_uds	tools/unixdomain_socket.c	/^}m_uds; \/\/ unix domain socket$/;"	t	typeref:struct:__anon28	file:
+m_uds_srv	tools/unixdomain_socket.h	/^typedef int (*m_uds_srv)(int i_clifd, struct sockaddr_in *i_addr) ;$/;"	t
+main	AVDeamon/main.c	/^int main( int argc, char *argv[] ){$/;"	f
+main	cli/main.c	/^int main( int argc, char *argv[]  ){$/;"	f
+main_active_main_thread	AVDeamon/main.c	/^static int main_active_main_thread( void ){$/;"	f	file:
+malloc_fn	tools/cjson.h	/^      void *(*malloc_fn)(size_t sz);$/;"	m	struct:cJSON_Hooks
+msgCenterInit	AVDeamon/msgCenter.c	/^int msgCenterInit( void ){$/;"	f
+msgCenterUninit	AVDeamon/msgCenter.c	/^int msgCenterUninit( void ){$/;"	f
+msgPkgDecode	tools/package.c	/^int msgPkgDecode( void *ibuf, int len, int ipdata,\\$/;"	f
+msgPkgEncode	tools/package.c	/^int msgPkgEncode( void *ibuf, int ilen, uint32_t icmd,\\$/;"	f
+msgPkgForeachSubscriber	tools/package.c	/^int msgPkgForeachSubscriber( void *isubber ){$/;"	f
+next	tools/cjson.h	/^	struct cJSON *next,*prev;	\/* next\/prev allow you to walk array\/object chains. Alternatively, use GetArraySize\/GetArrayItem\/GetObjectItem *\/$/;"	m	struct:cJSON	typeref:struct:cJSON::cJSON
+next	tools/package.c	/^    void *next;$/;"	m	struct:__anon24	file:
+ochannel	AVDeamon/main.c	/^    m_params    ochannel;$/;"	m	struct:__anon12	file:
+offset	tools/cjson.c	/^typedef struct {char *buffer; int length; int offset; } printbuffer;$/;"	m	struct:__anon23	file:
+ofmt	AVDeamon/main.c	/^    m_params    ofmt;$/;"	m	struct:__anon12	file:
+orate	AVDeamon/main.c	/^    m_params    orate;$/;"	m	struct:__anon12	file:
+oss	AVDeamon/main.c	/^    m_params    oss;$/;"	m	struct:__anon12	file:
+oss_name	AVDeamon/main.c	/^    m_params    oss_name;$/;"	m	struct:__anon12	file:
+oss_vol	AVDeamon/main.c	/^    m_params    oss_vol;$/;"	m	struct:__anon12	file:
+output_write	AVDeamon/player.c	/^static int output_write( void *iplay, uint8_t ibuf, int ilen ){$/;"	f	file:
+package_show_subscribers	tools/package.c	/^int package_show_subscribers( void ){$/;"	f
+param_get	tools/params.c	/^int param_get( int argc, char *argv[], m_params *iparam, int num_param ){$/;"	f
+param_show	tools/params.c	/^int param_show( m_params *iparam, int inum ){$/;"	f
+parse_array	tools/cjson.c	/^static const char *parse_array(cJSON *item,const char *value)$/;"	f	file:
+parse_hex4	tools/cjson.c	/^static unsigned parse_hex4(const char *str)$/;"	f	file:
+parse_number	tools/cjson.c	/^static const char *parse_number(cJSON *item,const char *num)$/;"	f	file:
+parse_object	tools/cjson.c	/^static const char *parse_object(cJSON *item,const char *value)$/;"	f	file:
+parse_string	tools/cjson.c	/^static const char *parse_string(cJSON *item,const char *str)$/;"	f	file:
+parse_value	tools/cjson.c	/^static const char *parse_value(cJSON *item,const char *value)$/;"	f	file:
+pattern	tools/params.h	/^    const char     *pattern; \/\/ pattern str$/;"	m	struct:__anon22
+pdata	tools/package.c	/^    int pdata;$/;"	m	struct:__anon24	file:
+plat	AVDeamon/Makefile	/^plat ?= mips$/;"	m
+plat	cli/Makefile	/^plat ?= mips$/;"	m
+play_build_filtergraph	AVDeamon/player.c	/^static int play_build_filtergraph( AVFilterGraph **igraph, AVFilterContext **isrc,\\$/;"	f	file:
+player_config	AVDeamon/player.c	/^int player_config( int istream, unsigned icmd,  ){$/;"	f
+player_init	AVDeamon/player.c	/^int player_init( int inbs_stream, int iochannel, AVSampleFormat iofmt, int iorate ){$/;"	f
+player_open_output_device	AVDeamon/player.c	/^int player_open_output_device( int ien_oss, int ien_alsa, int ien_uds ){$/;"	f
+player_register_local_devices	AVDeamon/player.c	/^int player_register_local_devices( void ){$/;"	f
+player_thrd	AVDeamon/player.c	/^static void *player_thrd( void *pdata ){$/;"	f	file:
+pow2gt	tools/cjson.c	/^static int pow2gt (int x)	{	--x;	x|=x>>1;	x|=x>>2;	x|=x>>4;	x|=x>>8;	x|=x>>16;	return x+1;	}$/;"	f	file:
+prev	tools/cjson.h	/^	struct cJSON *next,*prev;	\/* next\/prev allow you to walk array\/object chains. Alternatively, use GetArraySize\/GetArrayItem\/GetObjectItem *\/$/;"	m	struct:cJSON	typeref:struct:cJSON::
+print_array	tools/cjson.c	/^static char *print_array(cJSON *item,int depth,int fmt,printbuffer *p)$/;"	f	file:
+print_number	tools/cjson.c	/^static char *print_number(cJSON *item,printbuffer *p)$/;"	f	file:
+print_object	tools/cjson.c	/^static char *print_object(cJSON *item,int depth,int fmt,printbuffer *p)$/;"	f	file:
+print_string	tools/cjson.c	/^static char *print_string(cJSON *item,printbuffer *p)	{return print_string_ptr(item->valuestring,p);}$/;"	f	file:
+print_string_ptr	tools/cjson.c	/^static char *print_string_ptr(const char *str,printbuffer *p)$/;"	f	file:
+print_value	tools/cjson.c	/^static char *print_value(cJSON *item,int depth,int fmt,printbuffer *p)$/;"	f	file:
+printbuffer	tools/cjson.c	/^typedef struct {char *buffer; int length; int offset; } printbuffer;$/;"	t	typeref:struct:__anon23	file:
+sfMsgParse	AVDeamon/msgCenter.c	/^static int sfMsgParse( const char *imsg, mTaskNode *inode ){$/;"	f	file:
+sfSubberAdd	tools/package.c	/^static int sfSubberAdd( int ipdata ){$/;"	f	file:
+sfSubberDel	tools/package.c	/^static int sfSubberDel( int ipdata ){$/;"	f	file:
+sfUdsClientServiceCallback	cli/main.c	/^static int sfUdsClientServiceCallback( int ifd, struct sockaddr_in *i_addr ){$/;"	f	file:
+sfUdsSrvCallback	AVDeamon/msgCenter.c	/^static int sfUdsSrvCallback( int ifd, struct sockaddr_in *iaddr ){$/;"	f	file:
+sf_add_client2list	tools/unixdomain_socket.c	/^static m_cli *sf_add_client2list( m_uds *iuds, int ifd, struct sockaddr_in *iaddr ){$/;"	f	file:
+sf_add_fd_to_epoll_monitor	tools/unixdomain_socket.c	/^static int sf_add_fd_to_epoll_monitor( int i_fd, void *i_pdata  ){$/;"	f	file:
+sf_check_audio_format	AVDeamon/audio_device_alsa.c	/^static int sf_check_audio_format( unsigned istatus, unsigned int card,\\$/;"	f	file:
+sf_del_fd_from_epoll_monitor	tools/unixdomain_socket.c	/^static int sf_del_fd_from_epoll_monitor( int i_fd, void *i_pdata  ){$/;"	f	file:
+sf_get_devices_name	AVDeamon/audio_device_alsa.c	/^static int sf_get_devices_name( char *ifpbuf, unsigned itype, int icard, int idevice ){$/;"	f	file:
+sf_init_output_device	AVDeamon/main.c	/^static int sf_init_output_device( void ){$/;"	f	file:
+sf_lua_audio_device_init	AVDeamon/audio_device_alsa.c	/^static int sf_lua_audio_device_init( lua_State *L, uv_loop_t *loop ){$/;"	f	file:
+sf_lua_audio_device_relink	AVDeamon/audio_device_alsa.c	/^static int sf_lua_audio_device_relink( lua_State *L, uv_loop_t *loop ){$/;"	f	file:
+sf_lua_audio_device_uninit	AVDeamon/audio_device_alsa.c	/^static int sf_lua_audio_device_uninit( lua_State *L, uv_loop_t *loop ){$/;"	f	file:
+sf_lua_audio_device_unlink	AVDeamon/audio_device_alsa.c	/^static int sf_lua_audio_device_unlink( lua_State *L, uv_loop_t *loop ){$/;"	f	file:
+sf_lua_audio_device_voldown	AVDeamon/audio_device_alsa.c	/^int sf_lua_audio_device_voldown( lua_State *L, uv_loop_t *loop ){$/;"	f
+sf_lua_audio_device_volup	AVDeamon/audio_device_alsa.c	/^int sf_lua_audio_device_volup( lua_State *L, uv_loop_t *loop ){$/;"	f
+sf_player_out_write	AVDeamon/player.c	/^static int sf_player_out_write( uint8_t *iaudata, uint32_t ilen  ){$/;"	f	file:
+sf_socket_monitor	tools/unixdomain_socket.c	/^static void *sf_socket_monitor( void *pdata ){$/;"	f	file:
+sf_stream_decode	AVDeamon/player.c	/^static int sf_stream_decode( struct mAudioStream *istream ){$/;"	f	file:
+sf_stream_recycle	AVDeamon/player.c	/^static int sf_stream_recycle( struct mAudioStream *istream ){$/;"	f	file:
+sf_stream_service_thrd	tools/unixdomain_socket.c	/^static void *sf_stream_service_thrd( void *pdata ){$/;"	f	file:
+sf_stream_thrd_exit	tools/unixdomain_socket.c	/^static void sf_stream_thrd_exit( int sig ){$/;"	f	file:
+showCjson	tools/Debug.c	/^int showCjson( cJSON *ipData ){$/;"	f
+showMsgaEntry	AVDeamon/task.c	/^int showMsgaEntry( mTaskNode *ientry  ){$/;"	f
+silfGetAction	AVDeamon/msgCenter.c	/^static inline int silfGetAction( cJSON *ibody, eMsgAction *iaction ){$/;"	f	file:
+silfGetOutput	AVDeamon/msgCenter.c	/^static inline int silfGetOutput( cJSON *ibody, eAuOutputType *ioutput ){$/;"	f	file:
+silfGetUrl	AVDeamon/msgCenter.c	/^static inline int silfGetUrl( cJSON *ibody, mUrl *iurl, mAuFormat *iformat ){$/;"	f	file:
+silfGetVol	AVDeamon/msgCenter.c	/^static inline int silfGetVol( cJSON *ibody, mAuVol *ivol ){$/;"	f	file:
+silf_get_speeck_vol	AVDeamon/audio_device_oss.c	/^static inline int silf_get_speeck_vol( m_au_info *iinfo ){$/;"	f	file:
+silf_get_vol	AVDeamon/audio_device_alsa.c	/^static inline int silf_get_vol( m_au_info *iinfo, unsigned istatus ){$/;"	f	file:
+silf_set_record_vol	AVDeamon/audio_device_oss.c	/^static inline int silf_set_record_vol( m_au_info *iinfo ){$/;"	f	file:
+silf_set_speeck_vol	AVDeamon/audio_device_oss.c	/^static inline int silf_set_speeck_vol( m_au_info *iinfo ){$/;"	f	file:
+silf_set_update_dsp_handle	AVDeamon/audio_device_oss.c	/^static inline int silf_set_update_dsp_handle( m_au_info *iinfo, unsigned istatus ){$/;"	f	file:
+silf_set_vol	AVDeamon/audio_device_alsa.c	/^static inline int silf_set_vol( m_au_info *iinfo, unsigned istatus ){$/;"	f	file:
+skip	tools/cjson.c	/^static const char *skip(const char *in) {while (in && *in && (unsigned char)*in<=32) in++; return in;}$/;"	f	file:
+sp_stream	AVDeamon/player.c	/^static mAudioStream        *sp_stream = 0;$/;"	v	file:
+sp_uds_node	tools/unixdomain_socket.c	/^static m_uds       *sp_uds_node = NULL;$/;"	v	file:
+string	tools/cjson.h	/^	char *string;				\/* The item's name string, if this item is the child of, or is in the list of subitems of an object. *\/$/;"	m	struct:cJSON
+subpattern	tools/params.h	/^    const char     *subpattern;$/;"	m	struct:__anon22
+suffix_object	tools/cjson.c	/^static void suffix_object(cJSON *prev,cJSON *item) {prev->next=item;item->prev=prev;}$/;"	f	file:
+sv_audev_info	AVDeamon/audio_device_alsa.c	/^static m_au_info        sv_audev_info[4];$/;"	v	file:
+sv_audev_info	AVDeamon/audio_device_oss.c	/^static m_au_info        sv_audev_info[4];$/;"	v	file:
+sv_c0ctrl_fd	AVDeamon/audio_device_alsa.c	/^static int              sv_c0ctrl_fd = -1;$/;"	v	file:
+sv_cond	AVDeamon/main.c	/^static pthread_cond_t   sv_cond;$/;"	v	file:
+sv_cond	AVDeamon/player.c	/^static pthread_cond_t       sv_cond;$/;"	v	file:
+sv_epoll_fd	tools/unixdomain_socket.c	/^static int          sv_epoll_fd = -1;$/;"	v	file:
+sv_mutex	AVDeamon/main.c	/^static pthread_mutex_t   sv_mutex;$/;"	v	file:
+sv_mutex	AVDeamon/player.c	/^static pthread_mutex_t      sv_mutex;$/;"	v	file:
+sv_output_format	AVDeamon/player.c	/^static mAudioFormat         sv_output_format;$/;"	v	file:
+sv_pkg_subscribe	tools/package.c	/^static char const sv_pkg_subscribe[ ]={$/;"	v	file:
+sv_pkg_unsubscribe	tools/package.c	/^static char const sv_pkg_unsubscribe[ ]={$/;"	v	file:
+sv_player_thridid	AVDeamon/player.c	/^static pthread_t            sv_player_thridid; \/\/ player thrd id$/;"	v	file:
+sv_recp_fd	AVDeamon/audio_device_oss.c	/^static int              sv_recp_fd = -1;$/;"	v	file:
+sv_status	AVDeamon/audio_device_alsa.c	/^static unsigned         sv_status = 0;$/;"	v	file:
+sv_status	AVDeamon/audio_device_oss.c	/^static unsigned         sv_status = 0;$/;"	v	file:
+sv_status	AVDeamon/player.c	/^static unsigned             sv_status = 0;$/;"	v	file:
+sv_stream_nbs	AVDeamon/player.c	/^static int                  sv_stream_nbs = 0;$/;"	v	file:
+sv_subscriber	tools/package.c	/^static mSubber *sv_subscriber = NULL;$/;"	v	file:
+sv_tasklist	AVDeamon/task.c	/^static void *sv_tasklist = NULL;$/;"	v	file:
+sv_test_cmg	cli/main.c	/^static char sv_test_cmg[] = "{\\"ACTION\\":\\"Play\\",\\"URL\\":\\"file:\/tmp\/test.mp3\\",\\"VOL\\":[30,40] }";$/;"	v	file:
+sv_thrdid	tools/unixdomain_socket.c	/^static pthread_t    sv_thrdid = 0;$/;"	v	file:
+sv_uds	AVDeamon/msgCenter.c	/^static uds sv_uds;$/;"	v	file:
+task_create_ctrlpoint	AVDeamon/task.c	/^int task_create_ctrlpoint( mTaskNode **inode ){$/;"	f
+task_destory_ctrlpoint	AVDeamon/task.c	/^int task_destory_ctrlpoint( mTaskNode *inode ){$/;"	f
+task_init	AVDeamon/task.c	/^int task_init( int (*icb)(void) ){$/;"	f
+task_list_pop	AVDeamon/task.c	/^mTaskNode *task_list_pop( void ){$/;"	f
+task_list_push	AVDeamon/task.c	/^int task_list_push( mTaskNode *inode ){$/;"	f
+type	tools/cjson.h	/^	int type;					\/* The type of the item, as above. *\/$/;"	m	struct:cJSON
+type	tools/params.h	/^    e_udatatype     type;$/;"	m	struct:__anon22
+u_udata	tools/params.h	/^}u_udata;$/;"	t	typeref:union:__anon20
+uds	AVDeamon/main.c	/^    m_params    uds;$/;"	m	struct:__anon12	file:
+uds	tools/unixdomain_socket.h	/^typedef void* uds;$/;"	t
+uds_cli_create	tools/unixdomain_socket.c	/^int uds_cli_create( char *icli_name, char *isrv_name, m_uds_srv isrv_cb,\\$/;"	f
+uds_srv_create	tools/unixdomain_socket.c	/^void *uds_srv_create( const char *iname, int ilisten_nbs,\\$/;"	f
+uds_srv_distroy	tools/unixdomain_socket.c	/^int uds_srv_distroy( void *iuds ){$/;"	f
+uds_srv_send	tools/unixdomain_socket.c	/^int uds_srv_send( void *iuds,  char *ibuf, int ilen ){$/;"	f
+update	tools/cjson.c	/^static int update(printbuffer *p)$/;"	f	file:
+valuedouble	tools/cjson.h	/^	double valuedouble;			\/* The item's number, if type==cJSON_Number *\/$/;"	m	struct:cJSON
+valueint	tools/cjson.h	/^	int valueint;				\/* The item's number, if type==cJSON_Number *\/$/;"	m	struct:cJSON
+valuestring	tools/cjson.h	/^	char *valuestring;			\/* The item's string, if type==cJSON_String *\/$/;"	m	struct:cJSON
+wakeup_cb	AVDeamon/task.c	/^static int (*wakeup_cb)(void) = NULL;$/;"	v	file:
